@@ -1,11 +1,10 @@
 # ООП (OOP)
 
 ### EN: 
-<li>
-* Description of principles of OOP (Encapsulation, Polymorphism, Inheritance);
-* Description of principles of OOP in PHP (KISS, DRY, YAGNI);
-* Pattern "Dependency Injection".
-</li>  
+<li> Description of principles of OOP (Encapsulation, Polymorphism, Inheritance);
+<li> Description of principles of OOP in PHP (KISS, DRY, YAGNI);
+<li> Pattern "Dependency Injection".
+
 
 ### RU:
 <li>
