@@ -3,7 +3,7 @@
 ### EN: 
 - Description of principles of OOP (Encapsulation, Polymorphism, Inheritance);
 - Description of principles of OOP in PHP (KISS, DRY, YAGNI);
-- Pattern Dependency Injection.
+- Pattern "Dependency Injection".
 
 ### RU:
 - Описание принципов ООП (инкапсуляция, полиморфизм, инкапсуляция);
