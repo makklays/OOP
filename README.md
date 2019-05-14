@@ -3,11 +3,11 @@
 ### EN: 
   <li> Description of principles of OOP (Encapsulation, Polymorphism, Inheritance);
   <li> Description of principles of OOP in PHP (KISS, DRY, YAGNI);
-  <li> Pattern `Dependency Injection`.
+  <li> Pattern **Dependency Injection**.
 
 ### RU:
-   <li> Описание принципов ООП (инкапсуляция, полиморфизм, инкапсуляция);
+   <li> * Описание принципов ООП (инкапсуляция, полиморфизм, инкапсуляция); * 11 
    <li> Описание принципов ООП в PHP (KISS, DRY, YAGNI);
-   <li> Паттерн ** "Внедрение зависимости" **.
+   <li> Паттерн "Внедрение зависимости".
 
 Site: [makklays.com.ua](http://makklays.com.ua?from=github)
