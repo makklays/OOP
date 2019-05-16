@@ -22,7 +22,17 @@
  * Не стоит называть свои методы этими именами, если вы не хотите использовать их магическую функциональность. 
  */
  
- 
+
+class CallableClass
+{
+    public function __invoke($x)
+    {
+        var_dump($x);
+    }
+}
+$obj = new CallableClass;
+$obj(5);  // int(5)
+var_dump(is_callable($obj));  // bool(true)
  
  
  
