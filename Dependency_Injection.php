@@ -1,3 +1,4 @@
+<?php
 /**
  * ВНЕДРЕНИЕ ЗАВИСИМОСТИ - DEPENDENCY INJECTION 
  * 
